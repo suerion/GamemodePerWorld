@@ -1,3 +1,4 @@
+* Hexxarion ToDo's
 * [x] Start working on base
 * [x] Add commands
 * [x] Add functions
@@ -10,3 +11,9 @@
 * [x] Basic clean up
 * [x] Add console support
 * [ ] Fix bugs
+
+* Suerion ToDo's
+* [ ] Start redoing the plugin
+* [ ] updating plugin on MCPE1.16 and PMMP API 3.14
+* [ ] Fix bugs 
+
